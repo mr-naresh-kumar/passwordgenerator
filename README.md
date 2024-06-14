@@ -1,2 +1,2 @@
 # passwordgenerator
-javascript
+javascript https://nareshpasswordgenerator.netlify.app/
